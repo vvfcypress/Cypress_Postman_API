@@ -1,0 +1,16 @@
+{
+	"id": "7cf7a3eb-3517-4154-aab2-c754246af1be",
+	"name": "Staging",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "http://localhost:3000",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-08-28T19:09:24.721Z",
+	"_postman_exported_using": "Postman/12.25.7"
+}
